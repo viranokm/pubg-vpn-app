@@ -1,1 +1,1 @@
-main.py
+.github/workflows/build.yml
